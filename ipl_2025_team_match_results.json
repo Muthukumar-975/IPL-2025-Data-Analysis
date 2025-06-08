@@ -1,0 +1,659 @@
+[
+    {
+        "Team 1":"Punjab Kings",
+        "Team 2":"RCB",
+        "Winner":"RCB",
+        "Margin":"6 runs",
+        "Ground":"Ahmedabad",
+        "Match Date":"Jun 3, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"MI",
+        "Team 2":"Punjab Kings",
+        "Winner":"Punjab Kings",
+        "Margin":"5 wickets",
+        "Ground":"Ahmedabad",
+        "Match Date":"Jun 1, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"GT",
+        "Team 2":"MI",
+        "Winner":"MI",
+        "Margin":"20 runs",
+        "Ground":"New Chandigarh",
+        "Match Date":"May 30, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"Punjab Kings",
+        "Team 2":"RCB",
+        "Winner":"RCB",
+        "Margin":"8 wickets",
+        "Ground":"New Chandigarh",
+        "Match Date":"May 29, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"LSG",
+        "Team 2":"RCB",
+        "Winner":"RCB",
+        "Margin":"6 wickets",
+        "Ground":"Lucknow",
+        "Match Date":"May 27, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"MI",
+        "Team 2":"Punjab Kings",
+        "Winner":"Punjab Kings",
+        "Margin":"7 wickets",
+        "Ground":"Jaipur",
+        "Match Date":"May 26, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"KKR",
+        "Team 2":"SRH",
+        "Winner":"SRH",
+        "Margin":"110 runs",
+        "Ground":"Delhi",
+        "Match Date":"May 25, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"GT",
+        "Team 2":"CSK",
+        "Winner":"CSK",
+        "Margin":"83 runs",
+        "Ground":"Ahmedabad",
+        "Match Date":"May 25, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"DC",
+        "Team 2":"Punjab Kings",
+        "Winner":"DC",
+        "Margin":"6 wickets",
+        "Ground":"Jaipur",
+        "Match Date":"May 24, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RCB",
+        "Team 2":"SRH",
+        "Winner":"SRH",
+        "Margin":"42 runs",
+        "Ground":"Lucknow",
+        "Match Date":"May 23, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"GT",
+        "Team 2":"LSG",
+        "Winner":"LSG",
+        "Margin":"33 runs",
+        "Ground":"Ahmedabad",
+        "Match Date":"May 22, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"MI",
+        "Team 2":"DC",
+        "Winner":"MI",
+        "Margin":"59 runs",
+        "Ground":"Wankhede",
+        "Match Date":"May 21, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"CSK",
+        "Team 2":"RR",
+        "Winner":"RR",
+        "Margin":"6 wickets",
+        "Ground":"Delhi",
+        "Match Date":"May 20, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"LSG",
+        "Team 2":"SRH",
+        "Winner":"SRH",
+        "Margin":"6 wickets",
+        "Ground":"Lucknow",
+        "Match Date":"May 19, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"DC",
+        "Team 2":"GT",
+        "Winner":"GT",
+        "Margin":"10 wickets",
+        "Ground":"Delhi",
+        "Match Date":"May 18, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RR",
+        "Team 2":"Punjab Kings",
+        "Winner":"Punjab Kings",
+        "Margin":"10 runs",
+        "Ground":"Jaipur",
+        "Match Date":"May 18, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"KKR",
+        "Team 2":"CSK",
+        "Winner":"CSK",
+        "Margin":"2 wickets",
+        "Ground":"Eden Gardens",
+        "Match Date":"May 7, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"MI",
+        "Team 2":"GT",
+        "Winner":"GT",
+        "Margin":"3 wickets",
+        "Ground":"Wankhede",
+        "Match Date":"May 6, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"SRH",
+        "Team 2":"DC",
+        "Winner":"no result",
+        "Margin":"-",
+        "Ground":"Hyderabad",
+        "Match Date":"May 5, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"Punjab Kings",
+        "Team 2":"LSG",
+        "Winner":"Punjab Kings",
+        "Margin":"37 runs",
+        "Ground":"Dharamsala",
+        "Match Date":"May 4, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"KKR",
+        "Team 2":"RR",
+        "Winner":"KKR",
+        "Margin":"1 run",
+        "Ground":"Eden Gardens",
+        "Match Date":"May 4, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RCB",
+        "Team 2":"CSK",
+        "Winner":"RCB",
+        "Margin":"2 runs",
+        "Ground":"Bengaluru",
+        "Match Date":"May 3, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"GT",
+        "Team 2":"SRH",
+        "Winner":"GT",
+        "Margin":"38 runs",
+        "Ground":"Ahmedabad",
+        "Match Date":"May 2, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RR",
+        "Team 2":"MI",
+        "Winner":"MI",
+        "Margin":"100 runs",
+        "Ground":"Jaipur",
+        "Match Date":"May 1, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"CSK",
+        "Team 2":"Punjab Kings",
+        "Winner":"Punjab Kings",
+        "Margin":"4 wickets",
+        "Ground":"Chennai",
+        "Match Date":"Apr 30, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"DC",
+        "Team 2":"KKR",
+        "Winner":"KKR",
+        "Margin":"14 runs",
+        "Ground":"Delhi",
+        "Match Date":"Apr 29, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RR",
+        "Team 2":"GT",
+        "Winner":"RR",
+        "Margin":"8 wickets",
+        "Ground":"Jaipur",
+        "Match Date":"Apr 28, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"DC",
+        "Team 2":"RCB",
+        "Winner":"RCB",
+        "Margin":"6 wickets",
+        "Ground":"Delhi",
+        "Match Date":"Apr 27, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"MI",
+        "Team 2":"LSG",
+        "Winner":"MI",
+        "Margin":"54 runs",
+        "Ground":"Wankhede",
+        "Match Date":"Apr 27, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"KKR",
+        "Team 2":"Punjab Kings",
+        "Winner":"no result",
+        "Margin":"-",
+        "Ground":"Eden Gardens",
+        "Match Date":"Apr 26, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"CSK",
+        "Team 2":"SRH",
+        "Winner":"SRH",
+        "Margin":"5 wickets",
+        "Ground":"Chennai",
+        "Match Date":"Apr 25, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RCB",
+        "Team 2":"RR",
+        "Winner":"RCB",
+        "Margin":"11 runs",
+        "Ground":"Bengaluru",
+        "Match Date":"Apr 24, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"SRH",
+        "Team 2":"MI",
+        "Winner":"MI",
+        "Margin":"7 wickets",
+        "Ground":"Hyderabad",
+        "Match Date":"Apr 23, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"LSG",
+        "Team 2":"DC",
+        "Winner":"DC",
+        "Margin":"8 wickets",
+        "Ground":"Lucknow",
+        "Match Date":"Apr 22, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"KKR",
+        "Team 2":"GT",
+        "Winner":"GT",
+        "Margin":"39 runs",
+        "Ground":"Eden Gardens",
+        "Match Date":"Apr 21, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"MI",
+        "Team 2":"CSK",
+        "Winner":"MI",
+        "Margin":"9 wickets",
+        "Ground":"Wankhede",
+        "Match Date":"Apr 20, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"Punjab Kings",
+        "Team 2":"RCB",
+        "Winner":"RCB",
+        "Margin":"7 wickets",
+        "Ground":"New Chandigarh",
+        "Match Date":"Apr 20, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RR",
+        "Team 2":"LSG",
+        "Winner":"LSG",
+        "Margin":"2 runs",
+        "Ground":"Jaipur",
+        "Match Date":"Apr 19, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"GT",
+        "Team 2":"DC",
+        "Winner":"GT",
+        "Margin":"7 wickets",
+        "Ground":"Ahmedabad",
+        "Match Date":"Apr 19, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RCB",
+        "Team 2":"Punjab Kings",
+        "Winner":"Punjab Kings",
+        "Margin":"5 wickets",
+        "Ground":"Bengaluru",
+        "Match Date":"Apr 18, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"MI",
+        "Team 2":"SRH",
+        "Winner":"MI",
+        "Margin":"4 wickets",
+        "Ground":"Wankhede",
+        "Match Date":"Apr 17, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"DC",
+        "Team 2":"RR",
+        "Winner":"tied",
+        "Margin":"-",
+        "Ground":"Delhi",
+        "Match Date":"Apr 16, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"Punjab Kings",
+        "Team 2":"KKR",
+        "Winner":"Punjab Kings",
+        "Margin":"16 runs",
+        "Ground":"New Chandigarh",
+        "Match Date":"Apr 15, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"LSG",
+        "Team 2":"CSK",
+        "Winner":"CSK",
+        "Margin":"5 wickets",
+        "Ground":"Lucknow",
+        "Match Date":"Apr 14, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"DC",
+        "Team 2":"MI",
+        "Winner":"MI",
+        "Margin":"12 runs",
+        "Ground":"Delhi",
+        "Match Date":"Apr 13, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RR",
+        "Team 2":"RCB",
+        "Winner":"RCB",
+        "Margin":"9 wickets",
+        "Ground":"Jaipur",
+        "Match Date":"Apr 13, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"SRH",
+        "Team 2":"Punjab Kings",
+        "Winner":"SRH",
+        "Margin":"8 wickets",
+        "Ground":"Hyderabad",
+        "Match Date":"Apr 12, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"LSG",
+        "Team 2":"GT",
+        "Winner":"LSG",
+        "Margin":"6 wickets",
+        "Ground":"Lucknow",
+        "Match Date":"Apr 12, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"CSK",
+        "Team 2":"KKR",
+        "Winner":"KKR",
+        "Margin":"8 wickets",
+        "Ground":"Chennai",
+        "Match Date":"Apr 11, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RCB",
+        "Team 2":"DC",
+        "Winner":"DC",
+        "Margin":"6 wickets",
+        "Ground":"Bengaluru",
+        "Match Date":"Apr 10, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"GT",
+        "Team 2":"RR",
+        "Winner":"GT",
+        "Margin":"58 runs",
+        "Ground":"Ahmedabad",
+        "Match Date":"Apr 9, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"Punjab Kings",
+        "Team 2":"CSK",
+        "Winner":"Punjab Kings",
+        "Margin":"18 runs",
+        "Ground":"New Chandigarh",
+        "Match Date":"Apr 8, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"KKR",
+        "Team 2":"LSG",
+        "Winner":"LSG",
+        "Margin":"4 runs",
+        "Ground":"Eden Gardens",
+        "Match Date":"Apr 8, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"MI",
+        "Team 2":"RCB",
+        "Winner":"RCB",
+        "Margin":"12 runs",
+        "Ground":"Wankhede",
+        "Match Date":"Apr 7, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"SRH",
+        "Team 2":"GT",
+        "Winner":"GT",
+        "Margin":"7 wickets",
+        "Ground":"Hyderabad",
+        "Match Date":"Apr 6, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"Punjab Kings",
+        "Team 2":"RR",
+        "Winner":"RR",
+        "Margin":"50 runs",
+        "Ground":"New Chandigarh",
+        "Match Date":"Apr 5, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"CSK",
+        "Team 2":"DC",
+        "Winner":"DC",
+        "Margin":"25 runs",
+        "Ground":"Chennai",
+        "Match Date":"Apr 5, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"LSG",
+        "Team 2":"MI",
+        "Winner":"LSG",
+        "Margin":"12 runs",
+        "Ground":"Lucknow",
+        "Match Date":"Apr 4, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"KKR",
+        "Team 2":"SRH",
+        "Winner":"KKR",
+        "Margin":"80 runs",
+        "Ground":"Eden Gardens",
+        "Match Date":"Apr 3, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RCB",
+        "Team 2":"GT",
+        "Winner":"GT",
+        "Margin":"8 wickets",
+        "Ground":"Bengaluru",
+        "Match Date":"Apr 2, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"LSG",
+        "Team 2":"Punjab Kings",
+        "Winner":"Punjab Kings",
+        "Margin":"8 wickets",
+        "Ground":"Lucknow",
+        "Match Date":"Apr 1, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"MI",
+        "Team 2":"KKR",
+        "Winner":"MI",
+        "Margin":"8 wickets",
+        "Ground":"Wankhede",
+        "Match Date":"Mar 31, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RR",
+        "Team 2":"CSK",
+        "Winner":"RR",
+        "Margin":"6 runs",
+        "Ground":"Guwahati",
+        "Match Date":"Mar 30, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"DC",
+        "Team 2":"SRH",
+        "Winner":"DC",
+        "Margin":"7 wickets",
+        "Ground":"Visakhapatnam",
+        "Match Date":"Mar 30, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"GT",
+        "Team 2":"MI",
+        "Winner":"GT",
+        "Margin":"36 runs",
+        "Ground":"Ahmedabad",
+        "Match Date":"Mar 29, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"CSK",
+        "Team 2":"RCB",
+        "Winner":"RCB",
+        "Margin":"50 runs",
+        "Ground":"Chennai",
+        "Match Date":"Mar 28, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"SRH",
+        "Team 2":"LSG",
+        "Winner":"LSG",
+        "Margin":"5 wickets",
+        "Ground":"Hyderabad",
+        "Match Date":"Mar 27, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"RR",
+        "Team 2":"KKR",
+        "Winner":"KKR",
+        "Margin":"8 wickets",
+        "Ground":"Guwahati",
+        "Match Date":"Mar 26, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"GT",
+        "Team 2":"Punjab Kings",
+        "Winner":"Punjab Kings",
+        "Margin":"11 runs",
+        "Ground":"Ahmedabad",
+        "Match Date":"Mar 25, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"DC",
+        "Team 2":"LSG",
+        "Winner":"DC",
+        "Margin":"1 wicket",
+        "Ground":"Visakhapatnam",
+        "Match Date":"Mar 24, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"CSK",
+        "Team 2":"MI",
+        "Winner":"CSK",
+        "Margin":"4 wickets",
+        "Ground":"Chennai",
+        "Match Date":"Mar 23, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"SRH",
+        "Team 2":"RR",
+        "Winner":"SRH",
+        "Margin":"44 runs",
+        "Ground":"Hyderabad",
+        "Match Date":"Mar 23, 2025",
+        "Scorecard":"Twenty20"
+    },
+    {
+        "Team 1":"KKR",
+        "Team 2":"RCB",
+        "Winner":"RCB",
+        "Margin":"7 wickets",
+        "Ground":"Eden Gardens",
+        "Match Date":"Mar 22, 2025",
+        "Scorecard":"Twenty20"
+    }
+]
