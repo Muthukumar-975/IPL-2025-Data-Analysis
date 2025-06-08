@@ -16,12 +16,12 @@ print(f"Total tables found: {len(tables)}")
 df = tables[0]
 print(df.head())
 
-# Convert DataFrame to JSON string (records format)
+
 json_data = df.to_json(orient='records', indent=4)
 
-# Print JSON string
+
 print(json_data)
 
-# Optionally save to a JSON file
+
 with open('ipl_2025_team_match_results.json', 'w') as f:
     f.write(json_data)
