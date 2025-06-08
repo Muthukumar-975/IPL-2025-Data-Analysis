@@ -14,9 +14,9 @@ tables = pd.read_html(response.text)
 
 print(f"Total tables found: {len(tables)}")
 
-# Usually the main data is the first or second table, check output to be sure
+
 df = tables[0]
 print(df.head())
 
-# Save to CSV if needed
+
 df.to_csv('ipl_2025_team_match_results.csv', index=False)
