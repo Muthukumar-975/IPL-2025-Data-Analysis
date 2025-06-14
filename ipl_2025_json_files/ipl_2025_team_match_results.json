@@ -143,6 +143,15 @@
         "Match Date":"May 18, 2025",
         "Scorecard":"Twenty20"
     },
+	{
+	"Team 1":"RCB",
+        "Team 2":"KKR",
+        "Winner":"no result",
+        "Margin":"-",
+        "Ground":"Bengaluru",
+        "Match Date":"May 17, 2025",
+        "Scorecard":"Twenty20"
+},
     {
         "Team 1":"KKR",
         "Team 2":"CSK",
