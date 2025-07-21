@@ -1,0 +1,22 @@
+🏏 IPL 2025 Analysis Project – Vibrant Red / Orange Theme
+🎨 Color Codes
+
+Primary BG: #118DFF
+
+Secondary BG: #1D1D2E
+
+Visual BG: #072E57
+
+Border: #118DFF
+
+Buttons: #FFD700
+
+Data Bar(Runs): #FF6F00
+
+Data Bar(Wickets): #B71C1C
+
+Visuals: #F05454
+
+Text: #FFFFFF
+
+
